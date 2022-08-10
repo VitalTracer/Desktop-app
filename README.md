@@ -1,2 +1,2 @@
 # Desktop-app
-Version 2.47.2
+Version 2.47.3
