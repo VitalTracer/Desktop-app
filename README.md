@@ -1,3 +1,3 @@
 # Desktop-app
-Version 2.48.0
+Version 2.48.1
 
